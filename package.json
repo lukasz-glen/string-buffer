@@ -1,0 +1,48 @@
+{
+  "name": "@lukasz-glen/string-buffer",
+  "version": "1.0.0",
+  "description": "Light weight string buffer in solidity",
+  "main": "index.js",
+  "keywords": [
+    "solidity",
+    "string",
+    "bytes"
+  ],
+  "author": "lukasz-glen",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@typechain/ethers-v5": "^10.1.0",
+    "@typechain/hardhat": "^6.1.2",
+    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/parser": "^5.36.2",
+    "chai": "^4.3.6",
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.11.1",
+    "hardhat-gas-reporter": "^1.0.9",
+    "ts-node": "^10.9.1",
+    "typechain": "^8.1.0",
+    "typescript": "^4.8.3"
+  },
+  "types": "./typechain-types/index.ts",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukasz-glen/string-buffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lukasz-glen/string-buffer/issues"
+  },
+  "homepage": "https://github.com/lukasz-glen/string-buffer#readme"
+}
