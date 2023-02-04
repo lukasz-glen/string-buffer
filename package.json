@@ -1,5 +1,5 @@
 {
-  "name": "@lukasz-glen/string-buffer",
+  "name": "@lukasz.glen/string-buffer",
   "version": "1.0.0",
   "description": "Light weight string buffer in solidity",
   "main": "index.js",
