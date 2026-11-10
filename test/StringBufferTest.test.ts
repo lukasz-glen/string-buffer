@@ -185,5 +185,4 @@ describe('StringBufferTest', function () {
       console.log("compare benchmark", gasUsage1.toNumber(), gasUsage2.toNumber())
     })
   })
-
 })
